@@ -1,8 +1,8 @@
 baseurl = "https://ivpiteriv.github.io/mindofheinrich"
 languageCode = "en-us"
 title = "Mind of Heinrich"
-theme = "hugo-theme-casper"
-paginate = 2
+theme = "hugo-PaperMod"
+paginate = 10
 Copyright = "All rights reserved"
 canonifyurls = true
 
@@ -24,20 +24,20 @@ name = "Home" # Button will display as "Home"
 weight = 100 # the weight decides the position of the button (higher or lower)
 identifier = "home"
 pre = "<br />"
-url = "/"
+url = ""
 
 [[menu.main]]
 name = "Contact"
 weight = 0
 identifier = "contact" # this button will refer to a markdown file named "contact" in the content folder
 pre = "<br />"
-url = "/contact"
+url = " contact"
 
 [[menu.main]]
 name = "Blog"
 identifier = "blog" # this page will refer to a markdown file named "blog" in the content folder
 pre = "<br />"
-url = "/post"
+url = "post"
 weight = 40
 
 [[menu.main]]
