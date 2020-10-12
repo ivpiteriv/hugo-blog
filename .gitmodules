@@ -1,0 +1,6 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/ivpiteriv/mindofheinrich.git
+[submodule "themes/hugo-theme-casper"]
+	path = themes/hugo-theme-casper
+	url = https://github.com/vjeantet/hugo-theme-casper
