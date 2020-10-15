@@ -1,6 +1,6 @@
 ---
 title: "Wallpaper of the Week 42 - October 2020"
-date: 2020-10-14T15:51:38+02:00
+date: 2020-10-15T10:51:38+02:00
 ---
 
 Hi, 
@@ -8,6 +8,8 @@ to start my weekly wallpaper series I decided to share my personal background im
 I've been using it on my home PC for over a year(!) now and I still love the colors and the composition.
 
 Hope you will enjoy it as much as I do!
+
+You can download the wallpaper in full resolution (2534x1901) by doing a `right-click/longpress & safe` or by using the original source I've linked below!
 
 ![IMG](https://images.unsplash.com/photo-1495584721172-1bddffac2f5f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2534&q=80)
 

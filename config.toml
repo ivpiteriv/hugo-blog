@@ -18,6 +18,8 @@ linkedinName = "your linkedin name"
 email = "your email"
 instagramName = "your ins name"
 hideHUGOSupport = true
+hidecredits = true
+hidecopyright = true
 
 [[menu.main]]  # here are the buttons on the menu
 name = "Home" # Button will display as "Home"
